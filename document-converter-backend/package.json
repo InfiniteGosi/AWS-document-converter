@@ -1,0 +1,19 @@
+{
+  "name": "backend-convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.787.0",
+    "aws-sdk": "^2.1692.0",
+    "express": "^5.1.0",
+    "libreoffice-convert": "^1.6.1",
+    "multer": "^1.4.5-lts.2"
+  }
+}
