@@ -2,15 +2,11 @@
 ## Summary
 A serverless document conversion service powered by AWS implemented for the course Introduction to Cloud Computing at OTH Regensburg.
 
----
-
 ## Features
 
 - Upload documents and convert from DOCX to PDF
 - Fully serverless architecture using AWS
 - Scalable and cost-efficient
-
----
 
 ## Cloud Computing
 
@@ -20,8 +16,6 @@ A serverless document conversion service powered by AWS implemented for the cour
 - **ECS Fargate** – Containerized conversion application
 - **AWS Amplify** – Static web hosting
 - **IAM Roles** – Manages secure access between services
-
----
 
 ## Web Development
 
