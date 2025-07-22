@@ -1,10 +1,10 @@
-# 1. Document Converter on AWS
-
+# Document Converter on AWS
+## Summary
 A serverless document conversion service powered by AWS implemented for the course Introduction to Cloud Computing at OTH Regensburg.
 
 ---
 
-## 1.1. Features
+## Features
 
 - Upload documents and convert from DOCX to PDF
 - Fully serverless architecture using AWS
@@ -12,7 +12,7 @@ A serverless document conversion service powered by AWS implemented for the cour
 
 ---
 
-## 1.2. Cloud Computing
+## Cloud Computing
 
 - **Amazon S3** – Stores uploaded and converted files
 - **AWS Lambda** – Executes document conversion logic
@@ -23,7 +23,7 @@ A serverless document conversion service powered by AWS implemented for the cour
 
 ---
 
-## 1.3. Web Development
+## Web Development
 
 - **Frontend:** React.js
 - **Backend:** Node.js functions on AWS and containerized conversion application of ECS Fargate
