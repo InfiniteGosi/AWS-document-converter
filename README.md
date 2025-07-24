@@ -22,5 +22,5 @@ A serverless document conversion service powered by AWS implemented for the cour
 - **Frontend:** React.js
 - **Backend:** Node.js functions on AWS and containerized conversion application of ECS Fargate
 - **Hosting:** AWS Amplify for static web hosting
-- 
+
 **[Click here for demonstration video](https://youtu.be/4h96NnvT97M)**
